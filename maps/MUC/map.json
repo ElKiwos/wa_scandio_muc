@@ -26,6 +26,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"entrance"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -44,6 +49,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,6 +72,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,6 +95,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,6 +118,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,6 +141,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_5"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -134,6 +164,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_6_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -152,6 +187,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_6_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -170,6 +210,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jt_ck2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,6 +233,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"andechser"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,6 +256,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_7_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,6 +279,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_7_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,6 +302,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_7_3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -260,6 +325,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_7_4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -278,6 +348,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_7_5"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -296,6 +371,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"giesinger"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -314,6 +394,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_8"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -332,6 +417,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"maxlrainer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -350,6 +440,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_9"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -368,6 +463,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_10"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -386,6 +486,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_11"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -404,6 +509,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_12_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -422,6 +532,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office_12_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -440,6 +555,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"augustiner"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -458,6 +578,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tegernseer"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -476,6 +601,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"turnhalle"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -494,6 +624,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kitchen"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
