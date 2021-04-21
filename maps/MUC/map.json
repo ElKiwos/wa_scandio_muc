@@ -658,7 +658,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/AUG\/map.json"
+                 "value":"..\/EUR\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -673,7 +673,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
