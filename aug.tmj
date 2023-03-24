@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/EUR\/map.json"
+                 "value":".\/eur.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -392,7 +392,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":".\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1117,7 +1117,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"..\/..\/tilesets\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
+         "image":".\/tilesets\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1130,7 +1130,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"..\/..\/tilesets\/walls.png",
+         "image":".\/tilesets\/walls.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -1162,7 +1162,7 @@
         {
          "columns":16,
          "firstgid":753,
-         "image":"..\/..\/tilesets\/walls2.png",
+         "image":".\/tilesets\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3480,7 +3480,7 @@
         {
          "columns":10,
          "firstgid":1009,
-         "image":"..\/..\/tilesets\/desks.png",
+         "image":".\/tilesets\/desks.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -3493,7 +3493,7 @@
         {
          "columns":4,
          "firstgid":1119,
-         "image":"..\/..\/tilesets\/parquet.png",
+         "image":".\/tilesets\/parquet.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
