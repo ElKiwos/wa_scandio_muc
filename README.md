@@ -1,6 +1,3 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map Starter Kit - Public Folder
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
-
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+In this directory you can put static files (audio files, PDFs, videos, images except tilesets...) that you want to be present to the players.
