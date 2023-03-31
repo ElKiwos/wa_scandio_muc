@@ -320742,7 +320742,7 @@
       "name": "override",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 100,
       "x": 0,
       "y": 0
@@ -330755,7 +330755,7 @@
       "name": "scrubs",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 100,
       "x": 0,
       "y": 0
@@ -340819,7 +340819,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-1abde0e1.png",
+      "image": "map-chunk-1-51d4b76e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
